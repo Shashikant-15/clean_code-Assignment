@@ -19,7 +19,7 @@ cd ./Clean-Code-Assignment
 ```
 
 
-####Run the following commands to execute the JAVA program
+#### Run the following commands to execute the JAVA program
 
 ```bash
 javac MainClass.java
